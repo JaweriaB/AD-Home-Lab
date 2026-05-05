@@ -1,0 +1,14 @@
+# Sensitive files - never upload these
+*.csv
+secrets/
+passwords.txt
+*.key
+*.pem
+
+# Windows system files
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# PowerShell temp files
+*.ps1xml
